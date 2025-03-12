@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Calluna', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background-image: url("https://99px.ru/sstorage/53/2024/12/mid_365734_116881.jpg");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: #ffffff;
+    padding: 300px 0;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+td {
+  padding: 15px;
+  
+}
+
+section {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    font-size: 1.8em;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    border-radius: 50%;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+footer p {
+    font-size: 0.9em;
+}
